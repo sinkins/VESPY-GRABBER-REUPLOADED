@@ -1,5 +1,5 @@
 <img align="center" src='https://cdn.discordapp.com/attachments/1037900641164611659/1059001198184779886/pure-black-background-f82588d3.png'>
-
+# OLD VERSION OF VESPY WILL UPDATE SOON DM Synthetic#4915 FOR UPDATES IF NEEDED [Synthetic#4915/github.com/syntheticc]
 # ===== Python Open Source Stub Builder =====
 
 <img align="center" src='https://cdn.discordapp.com/attachments/1037900641164611659/1059001627756998727/python_EvlOkHBWaD.png'>
